@@ -7,17 +7,19 @@ description: Information resources, internal documentation, and tools to support
 **[WebAIM](http://webaim.org/)**
 Rich with tutorials, best practices, and studies related to Web Accessibility; this can be a first stop when tackling a new issue. Subscribe to their robust listserv and/or search the listerv archives on the [WebAIM Discussion](http://webaim.org/discussion/) page.  
 
-**[HTML5 Dashboard: Accessibility support status of HTML5](http://www.html5accessibility.com/)**
-
-
 <br>
 
-### Validation Tools  
+### Validation & Evaluation Tools   
 #### [WAVE](http://wave.webaim.org/)
 Test against WCAG 2.0; created by WebAIM. Also available as an extension for various browsers.  
 
 #### [CynthiaSays](http://cynthiasays.com/)
 Test for compliance with Section 508, WCAG 2.0 A, WCAG 2.0 AA, or WCAG 2.0 AAA  
+
+#### [HTML5 Dashboard: Accessibility support status of HTML5](http://www.html5accessibility.com/)  
+
+#### [Interactive WCAG 2.0](http://code.viget.com/interactive-wcag/#responsibility=&level=aa)   
+Directory of WCAG 2.0 Standards paired with concrete recommendations from WebAIM.  
 
 <br>
 ### Assistive Technology  
