@@ -1,4 +1,6 @@
-# NYPL Digital Design Toolkit
+> This is a backup for portfolio purposes
+
+# NYPL Digital Design Toolkit (backup)
 Design toolkit (SASS) for the NYPL Digital team
 
 ## [View documentation](http://mgiraldo.github.io/nypl-design-toolkit/)
